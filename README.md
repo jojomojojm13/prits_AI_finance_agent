@@ -27,7 +27,9 @@ cd Day_05/backend
 # 1. Copy and fill in your Groq API key
 cp .env.example .env
 #    Edit .env and set GROQ_API_KEY=<your_key>
+#    and set SERPER_API_KEY=<your_key>
 #    Get your key at: https://console.groq.com/keys
+#    Get your key at: https://serper.dev/api-keys
 
 # 2. Install Python dependencies
 pip install -r requirements.txt
@@ -60,3 +62,9 @@ Examples:
 - *What is Tesla's current P/E ratio?*
 
 The agent will use Yahoo Finance under the hood and format its answer with headings, bullet points, and tables.
+
+Or Ask Questions:
+1.Give me a quick brief on INFY
+2.Also Give me a quick brief on WIPRO
+3.How does both compare to TCS on valuation?
+4.Given all 3, which has better growth prospects?
