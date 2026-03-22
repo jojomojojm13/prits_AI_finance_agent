@@ -64,7 +64,7 @@ Examples:
 The agent will use Yahoo Finance under the hood and format its answer with headings, bullet points, and tables.
 
 Or Ask Questions:
-1.Give me a quick brief on INFY
-2.Also Give me a quick brief on WIPRO
-3.How does both compare to TCS on valuation?
-4.Given all 3, which has better growth prospects?
+- Give me a quick brief on INFY
+- Also Give me a quick brief on WIPRO
+- How does both compare to TCS on valuation?
+- Given all 3, which has better growth prospects?
